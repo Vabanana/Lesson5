@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My Modules</string>
+    <string name="c346_android_programing">C346 Android Programing</string>
+    <string name="c349_ipad_programming">C349 iPad Programming</string>
+    <string name="module_code">Module Code:</string>
+    <string name="module_name">Module Name:</string>
+    <string name="academic_year">Academic Year:</string>
+    <string name="semester">Semester:</string>
+    <string name="module_credit">Module Credit:</string>
+    <string name="venue">Venue:</string>
+    <string name="returns">Return</string>
+</resources>
